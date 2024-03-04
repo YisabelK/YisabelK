@@ -1,9 +1,9 @@
 ## About me
 
-<h1 align="left">Hi 👋, I'm Yoomi Kim, dreaming to become a professional Java developer.</h1>
-<h3 align="left">A passionate backend developer from Korea</h3>
+<h1 align="left">Hi 👋, I'm Yoomi Kim, dreaming to become a professional full-stack developer.</h1>
+<h3 align="left">A passionate developer from Korea</h3>
 
-- 🌱 I’m currently learning **Spring, JS**
+- 🌱 I’m currently learning **Spring, JS, React**
 
 - 💬 Ask me about **Java**
 
