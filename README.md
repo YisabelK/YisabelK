@@ -15,7 +15,8 @@ I am **familiar with backend development** and have experience in **API integrat
 
 <h3 align="left">Skills</h3>
 <p align="left">
-**Strong**  
+Strong
+<br/> 
 <a href="https://www.java.com" target="blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
 </a>
@@ -39,7 +40,8 @@ I am **familiar with backend development** and have experience in **API integrat
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
 </a>
 <br/>
-**Knowledgeable** 
+Knowledgeable
+<br/>
 <a href="https://www.mysql.com/" target="blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </a>
@@ -47,7 +49,8 @@ I am **familiar with backend development** and have experience in **API integrat
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </a>
 <br/>
-**ECT** 
+ECT
+<br/>
 <a href="https://git-scm.com/" target="blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
@@ -71,6 +74,8 @@ GRS gGmbH | 2024.05- Present
     - **OAuth 2.0** integration.
     - Selecting, editing, and uploading profile pictures.
 - Presented detailed documentation of research findings.
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yisabelk&show_icons=true&theme=onedark&locale=en&layout=compact" alt="yisabelk" /></p>
 
