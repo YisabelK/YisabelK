@@ -3,10 +3,6 @@
 <h1 align="left">Hi 👋, I'm Yoomi Kim, dreaming to become a professional full-stack developer.</h1>
 <h3 align="left">A passionate developer from Korea</h3>
 
-- 🌱 I’m currently learning **Spring, JS, React**
-
-- 💬 Ask me about **Java**
-
 - 📫 How to reach me **isabelyumi37@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
